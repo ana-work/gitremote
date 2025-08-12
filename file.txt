@@ -3,3 +3,4 @@ prvi komit
 promena
 promena2
 feature2
+feature1
